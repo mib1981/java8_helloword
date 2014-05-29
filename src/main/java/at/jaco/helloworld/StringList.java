@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.function.Consumer;
 
 /**
- * <b>TODO class<b> component class.
+ * <b>StringList<b> Java 8 Demo
  *
  * @author mib
  * @version $Revision: $ $Date: $
