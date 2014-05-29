@@ -25,7 +25,7 @@ public class Person {
 	}
 
 	public void printPerson() {
-		// ... test staging
+		// ... test
 	}
 
 	public enum Sex {
