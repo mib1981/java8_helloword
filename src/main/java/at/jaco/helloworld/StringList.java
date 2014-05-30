@@ -41,5 +41,8 @@ public class StringList {
 		long countLongStrings = myList.stream().filter(element -> element.length() > 4).count();
 		Collections.sort(pList, (Person p1, Person p2) -> p1.getName().compareTo(p2.getName()));
 		pList.forEach(p -> System.out.println(p.getName()));
+
+
+
 	}
 }
